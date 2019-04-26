@@ -3,12 +3,12 @@ web/node_modules/
 web/dist/
 
 # Data folder
-data/
+#data/
 cache/
-logs/
+#logs/
 *.log
 *.pkl
-models/
+#models/
 
 # config files
 
